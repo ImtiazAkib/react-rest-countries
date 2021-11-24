@@ -1,0 +1,10 @@
+.country {
+  background-color: burlywood;
+  border: 2px solid blanchedalmond;
+  border-radius: 5px;
+  margin: 20px;
+}
+.country img {
+  width: 200px;
+  height: 100px;
+}
