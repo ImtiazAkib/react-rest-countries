@@ -23,7 +23,6 @@ const Countries = () => {
       .then((res) => res.json())
       .then((data) => setCountrycodes(data.data));
   }, []);
-
   return (
     <div>
       <h1>Hello from Countries</h1>
